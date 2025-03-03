@@ -21,7 +21,24 @@
 ---
 
 ### 💻 Tecnologias que estou aprendendo:
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap
+	
+
+
+    
+
+
+	
+
+			
+
+				
+				
+			
+
+	
+
+	: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -31,7 +48,7 @@
 ---
 
 ### 🧁 Vamos nos conectar?
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siilvanafurtado@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23FADADD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siilvanafurtado@gmail.com)
 
 ---
 
