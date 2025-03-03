@@ -30,6 +30,11 @@
 
 ---
 
+### 🧁 Vamos nos conectar?
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siilvanafurtado@gmail.com)
+
+---
+
 <p align="center">
   🌼 "Transformando códigos em coisas fofas e úteis." 🌼
 </p>
