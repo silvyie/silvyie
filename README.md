@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Silvana (Silvyie)! ✨</h1>
+<h1 align="center">Olá! ✨</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/cb/e3/05/cbe3050646b92d3504cd367ba0e53cd0.jpg" alt="Silvyie" width="200" style="border-radius: 50%;">
@@ -13,7 +13,7 @@
 ---
 
 ### 🌷 Sobre mim:
-- 🩰 Me chame de Silvyie.
+- 🩰 Me chamo Silvana (Silvyie).
 - 👩🏻‍💻 Estudante de Ciência da Computação (4º semestre).
 - 🎠 Amo programar projetos que deixam meu dia a dia mais divertido.
 - 🪄 Explorando Python, HTML, CSS e começando com JavaScript.
