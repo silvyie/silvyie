@@ -16,7 +16,7 @@
 - 🩰 Me chamo Silvana (Silvyie).
 - 👩🏻‍💻 Estudante de Ciência da Computação (4º semestre).
 - 🎠 Amo programar projetos que deixam meu dia a dia mais divertido.
-- 🪄 Explorando Python, HTML, CSS e começando com JavaScript.
+- 🪄 Explorando Python e C.
 
 ---
 
