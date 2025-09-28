@@ -1,7 +1,7 @@
 <h1 align="center">Olá! ✨</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/80/58/e4/8058e44a4d676aed0ba3ab32bdaaf736.jpg" alt="Silvyie" width="500" style="border-radius: 50%;">
+  <img src="https://i.pinimg.com/1200x/3b/1c/d3/3b1cd3cede863dc3e517a7425e9e599a.jpg" alt="Silvyie" width="500" style="border-radius: 50%;">
 </p>
 
 <p align="center">
