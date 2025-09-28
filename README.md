@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  🎀 amante de projetos criativos | computer science girly 💻<br>
+  🎀 gosto de projetos criativos | computer science e UI/UX girl 💻<br>
   🎓 university student | 🇧🇷 brazil <br>
-  ☁️ sempre em busca de aprender coisas novas!
+  ☁️ sempre em busca de aprender coisas novas que sejam aplicáveis!
 </p>
 
 ---
 
 ### 🌷 Sobre mim:
 - 🩰 Me chamo Silvana (Silvyie).
-- 👩🏻‍💻 Estudante de Ciência da Computação (4º semestre).
-- 🎠 Amo programar projetos que deixam meu dia a dia mais divertido.
-- 🪄 Explorando Python e C.
+- 👩🏻‍💻 Estudante de Ciência da Computação (5º semestre).
+- 🎠 Gosto de programar projetos que tornem o meu dia a dia útil.
+- 🪄 Explorando UI/UX e C.
 
 ---
 
@@ -39,10 +39,8 @@
 	
 
 	: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ui.ux/ui.ux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 </div>
 
 ---
