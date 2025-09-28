@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎀 gosto de projetos criativos | computer science e UI/UX girl 💻<br>
+  🎀 gosto de projetos criativos | computer science and UI/UX girl 💻<br>
   🎓 university student | 🇧🇷 brazil <br>
   ☁️ sempre em busca de aprender coisas novas que sejam aplicáveis no cotidiano!
 </p>
