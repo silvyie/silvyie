@@ -39,7 +39,7 @@
 	
 
 	: 10px;">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/figma.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 </div>
 
