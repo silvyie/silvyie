@@ -39,14 +39,15 @@
 	
 
 	: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ui.ux/ui.ux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" width="40" height="40"/>
+  <span style="font-size:24px;">🎨 UI/UX</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 </div>
 
 ---
 
 ### 🧁 Vamos nos conectar?
-[![Email](https://img.shields.io/badge/Email-%23FADADD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siilvanafurtado@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-%23FADADD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siilvanafurtado@gmail.com)
 
 ---
 
